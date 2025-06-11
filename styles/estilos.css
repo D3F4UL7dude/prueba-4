@@ -1,0 +1,77 @@
+@font-face {
+    font-family: sans-open;
+    src: url(/assets/OpenSans-Regular.ttf);
+}
+body{
+    scroll-behavior: smooth;
+    background-image: url(/assets/hand-drawn-coffee-concept-background-free-vector.jpg);
+}
+.header{
+    background-color: rgba(179, 173, 173, 0.308);
+}
+.logo{
+    display: flex;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    justify-content: center;
+}
+.cont-logo{
+    width: 50%;
+}
+.foto-logo{
+    width: 100%;
+}
+.nav{
+    display: flex;
+    margin-top: 2%;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2%;
+    font-family: sans-open;
+    font-size: large;
+}
+.navbar{
+    display: flex;
+    width: fit-content;
+    border-radius: 23px;
+}
+.navbar-nav{
+    gap: 2rem;
+}
+.navbar-collapse{
+    z-index: 1050;
+}
+.download{
+    display: flex;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+}
+.descarga{
+    width: 100%;
+}
+.tarjetas{
+    margin-top: 5%;
+}
+.cafe-1, .cafe-2, .cafe-3{
+    display: flex;
+    margin-bottom: 3%;
+    justify-content: center;
+}
+.footer{
+    display: flex;
+    margin-top: 8%;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+}
+.cont-p{
+    display: flex;
+    height: 60%;
+}
+.parrafo{
+    display: flex;
+    width: 100%;
+}
