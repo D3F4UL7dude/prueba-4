@@ -1,10 +1,10 @@
 @font-face {
     font-family: sans-open;
-    src: url(assets/OpenSans-Regular.ttf);
+    src: url(../assets/OpenSans-Regular.ttf);
 }
 body{
     scroll-behavior: smooth;
-    background-image: url(assets/hand-drawn-coffee-concept-background-free-vector.jpg);
+    background-image: url(../assets/hand-drawn-coffee-concept-background-free-vector.jpg);
 }
 .header{
     background-color: rgba(179, 173, 173, 0.308);
