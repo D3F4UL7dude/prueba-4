@@ -57,6 +57,13 @@ body{
 .tarjetas{
     margin-top: 5%;
 }
+.btn{
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-self: center;
+    width: fit-content;
+    background-color: #036635;
+}
 .cafe-1, .cafe-2, .cafe-3{
     display: flex;
     margin-bottom: 3%;
